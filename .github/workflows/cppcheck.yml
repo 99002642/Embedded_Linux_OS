@@ -11,4 +11,4 @@ jobs:
       - name: Install cppcheck
         run: sudo apt-get -y install cppcheck
       - name: Cppcheck code
-        run: cppcheck  99002642/Embedded_Linux_OS
+        run: cppcheck  99002642/Embedded_Linux_OS/
